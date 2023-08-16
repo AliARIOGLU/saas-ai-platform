@@ -1,0 +1,2 @@
+planetscale db -> codex_22
+openai_keys -> codex_19
