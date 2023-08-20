@@ -1,4 +1,0 @@
-planetscale db -> codex_22
-openai_keys -> codex_19
-
-pscale pwd -> pscale_pw_IC5DprCwTwHPGSqD4Y4Xi4PWSNQdaTPcFk5l29oDAvO
